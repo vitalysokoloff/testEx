@@ -1,2 +1,2 @@
 # Example
-![alt text](Example.png "Demo")
+![alt text](example.png "Demo")
